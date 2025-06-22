@@ -35,8 +35,6 @@ local mainTab = window:AddTab("Main")
 local farmPlusTab = window:AddTab("Farm")
 mainTab:Show()
 
-mainTab:AddLabel("Moon Script")
-
 local antiAFKEnabled = true
 mainTab:AddSwitch("Anti-AFK System", function(bool)
     antiAFKEnabled = bool
