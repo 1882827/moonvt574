@@ -3,7 +3,7 @@ local LocalPlayer = Players.LocalPlayer
 
 local whitelist = {
     ["SadNii4"] = true,
-    ["user2"] = true,
+    ["brocani2s"] = true,
     ["MortoX853"] = true,
     ["user3"] = true,
     ["user4"] = true,
